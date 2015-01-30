@@ -1,5 +1,5 @@
 package lokaler;
 
-public class Lokale {
+public abstract class Lokale {
 
 }
